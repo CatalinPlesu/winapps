@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="Matlab"
+
+# Used for descriptions and window class
+FULL_NAME="Matlab"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files\Matlab\R2020a\bin\matlab.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Office"
+
+# GNOME mimetypes
+MIME_TYPES="application/matlab"
